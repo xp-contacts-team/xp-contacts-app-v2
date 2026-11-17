@@ -1,0 +1,8 @@
+# pnpm 11 reads install settings from this file, not from .npmrc.
+# Hoisted layout keeps CLI tools (TypeScript, Vite, Vitest, ESLint) reliable on Windows.
+packages:
+  - '.'
+
+nodeLinker: hoisted
+autoInstallPeers: true
+strictPeerDependencies: false
