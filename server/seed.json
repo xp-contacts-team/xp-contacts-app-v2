@@ -1,0 +1,308 @@
+[
+  {
+    "id": "seed-chen-siyuan",
+    "name": "陈思远",
+    "company": "星澜科技",
+    "jobTitle": "产品总监",
+    "notes": "大学同学，每年秋天约一次爬山。偏好上午沟通。",
+    "favorite": true,
+    "methods": [
+      {
+        "id": "seed-m-1",
+        "kind": "phone",
+        "label": "手机",
+        "value": "138 0013 8000"
+      },
+      {
+        "id": "seed-m-2",
+        "kind": "phone",
+        "label": "工作",
+        "value": "010-8888 6666"
+      },
+      {
+        "id": "seed-m-3",
+        "kind": "email",
+        "label": "工作",
+        "value": "siyuan.chen@xinglan.cn"
+      },
+      {
+        "id": "seed-m-4",
+        "kind": "social",
+        "label": "微信",
+        "value": "siyuan_chen"
+      },
+      {
+        "id": "seed-m-5",
+        "kind": "address",
+        "label": "公司",
+        "value": "北京市海淀区中关村大街 27 号"
+      }
+    ],
+    "createdAt": "2026-08-21T09:10:00.000Z",
+    "updatedAt": "2026-11-12T03:20:00.000Z"
+  },
+  {
+    "id": "seed-lin-xiaoyu",
+    "name": "林晓雨",
+    "company": "自由职业",
+    "jobTitle": "插画师",
+    "notes": "为校刊画过封面。喜欢纸质书和桂花乌龙。",
+    "favorite": true,
+    "methods": [
+      {
+        "id": "seed-m-6",
+        "kind": "phone",
+        "label": "手机",
+        "value": "139 2233 4455"
+      },
+      {
+        "id": "seed-m-7",
+        "kind": "email",
+        "label": "个人",
+        "value": "xiaoyu.lin@foxmail.com"
+      },
+      {
+        "id": "seed-m-8",
+        "kind": "social",
+        "label": "小红书",
+        "value": "小雨画画"
+      },
+      {
+        "id": "seed-m-9",
+        "kind": "address",
+        "label": "家庭",
+        "value": "杭州市西湖区文三路 128 号"
+      }
+    ],
+    "createdAt": "2026-09-02T02:30:00.000Z",
+    "updatedAt": "2026-11-08T11:05:00.000Z"
+  },
+  {
+    "id": "seed-wang-haoran",
+    "name": "王浩然",
+    "company": "远航咨询",
+    "jobTitle": "高级顾问",
+    "notes": "项目合作认识，擅长供应链数字化。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-10",
+        "kind": "phone",
+        "label": "工作",
+        "value": "021-5566 7788"
+      },
+      {
+        "id": "seed-m-11",
+        "kind": "email",
+        "label": "工作",
+        "value": "haoran.wang@yuanhang.com"
+      },
+      {
+        "id": "seed-m-12",
+        "kind": "social",
+        "label": "LinkedIn",
+        "value": "haoran-wang"
+      }
+    ],
+    "createdAt": "2026-09-15T06:00:00.000Z",
+    "updatedAt": "2026-10-29T08:45:00.000Z"
+  },
+  {
+    "id": "seed-zhao-yiming",
+    "name": "赵一鸣",
+    "company": "蓝鲸网络",
+    "jobTitle": "后端工程师",
+    "notes": "开源搭子，周末一起维护小工具。",
+    "favorite": true,
+    "methods": [
+      {
+        "id": "seed-m-13",
+        "kind": "phone",
+        "label": "手机",
+        "value": "186 7788 9900"
+      },
+      {
+        "id": "seed-m-14",
+        "kind": "email",
+        "label": "个人",
+        "value": "yiming.zhao@gmail.com"
+      },
+      {
+        "id": "seed-m-15",
+        "kind": "social",
+        "label": "GitHub",
+        "value": "yiming-dev"
+      }
+    ],
+    "createdAt": "2026-06-11T10:00:00.000Z",
+    "updatedAt": "2026-11-14T07:30:00.000Z"
+  },
+  {
+    "id": "seed-zhou-jing",
+    "name": "周静",
+    "company": "明德中学",
+    "jobTitle": "语文教师",
+    "notes": "高中班主任，教师节记得问候。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-16",
+        "kind": "phone",
+        "label": "手机",
+        "value": "137 6655 4433"
+      },
+      {
+        "id": "seed-m-17",
+        "kind": "address",
+        "label": "学校",
+        "value": "南京市鼓楼区汉中路 155 号"
+      }
+    ],
+    "createdAt": "2026-05-20T01:15:00.000Z",
+    "updatedAt": "2026-09-10T02:00:00.000Z"
+  },
+  {
+    "id": "seed-li-chen",
+    "name": "李辰",
+    "company": "光合资本",
+    "jobTitle": "投资经理",
+    "notes": "路演现场交换名片，关注企业服务方向。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-18",
+        "kind": "phone",
+        "label": "工作",
+        "value": "010-6521 8899"
+      },
+      {
+        "id": "seed-m-19",
+        "kind": "email",
+        "label": "工作",
+        "value": "chen.li@guanghe.vc"
+      },
+      {
+        "id": "seed-m-20",
+        "kind": "social",
+        "label": "微信",
+        "value": "lichen_vc"
+      }
+    ],
+    "createdAt": "2026-10-04T04:20:00.000Z",
+    "updatedAt": "2026-10-23T09:10:00.000Z"
+  },
+  {
+    "id": "seed-sun-yue",
+    "name": "孙悦",
+    "company": "云图设计",
+    "jobTitle": "UI 设计师",
+    "notes": "帮我做过作品集评审，审美非常在线。",
+    "favorite": true,
+    "methods": [
+      {
+        "id": "seed-m-21",
+        "kind": "phone",
+        "label": "手机",
+        "value": "188 1122 3344"
+      },
+      {
+        "id": "seed-m-22",
+        "kind": "email",
+        "label": "工作",
+        "value": "yue.sun@yuntu.design"
+      },
+      {
+        "id": "seed-m-23",
+        "kind": "social",
+        "label": "站酷",
+        "value": "孙悦YUE"
+      },
+      {
+        "id": "seed-m-24",
+        "kind": "address",
+        "label": "公司",
+        "value": "上海市徐汇区龙腾大道 2555 号"
+      }
+    ],
+    "createdAt": "2026-07-18T08:00:00.000Z",
+    "updatedAt": "2026-11-06T05:40:00.000Z"
+  },
+  {
+    "id": "seed-he-jia",
+    "name": "何嘉",
+    "company": "城西医院",
+    "jobTitle": "主治医师",
+    "notes": "家庭医生，复诊前先发消息确认时间。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-25",
+        "kind": "phone",
+        "label": "门诊",
+        "value": "0571-8800 1120"
+      },
+      {
+        "id": "seed-m-26",
+        "kind": "address",
+        "label": "医院",
+        "value": "杭州市拱墅区丽水路 88 号"
+      }
+    ],
+    "createdAt": "2026-04-09T03:10:00.000Z",
+    "updatedAt": "2026-08-30T06:25:00.000Z"
+  },
+  {
+    "id": "seed-zheng-kai",
+    "name": "郑凯",
+    "company": "拓野户外",
+    "jobTitle": "合伙人",
+    "notes": "徒步领队，装备问题都可以问他。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-27",
+        "kind": "phone",
+        "label": "手机",
+        "value": "159 8877 6655"
+      },
+      {
+        "id": "seed-m-28",
+        "kind": "email",
+        "label": "工作",
+        "value": "kai.zheng@tuoye.com"
+      },
+      {
+        "id": "seed-m-29",
+        "kind": "social",
+        "label": "微信",
+        "value": "tuoye_kai"
+      }
+    ],
+    "createdAt": "2026-03-22T09:50:00.000Z",
+    "updatedAt": "2026-07-12T02:15:00.000Z"
+  },
+  {
+    "id": "seed-xu-anran",
+    "name": "许安然",
+    "company": "南风出版社",
+    "jobTitle": "编辑",
+    "notes": "喜欢寄明信片。新书出版时会寄样书。",
+    "favorite": false,
+    "methods": [
+      {
+        "id": "seed-m-30",
+        "kind": "phone",
+        "label": "工作",
+        "value": "025-8333 6677"
+      },
+      {
+        "id": "seed-m-31",
+        "kind": "email",
+        "label": "工作",
+        "value": "anran.xu@nanfeng.press"
+      }
+    ],
+    "createdAt": "2026-02-14T01:00:00.000Z",
+    "updatedAt": "2026-06-01T07:00:00.000Z"
+  }
+]
