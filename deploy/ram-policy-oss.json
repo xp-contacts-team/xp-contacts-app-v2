@@ -1,0 +1,22 @@
+{
+  "Version": "1",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "oss:PutBucket",
+        "oss:PutObject",
+        "oss:GetObject",
+        "oss:ListObjects",
+        "oss:DeleteObject",
+        "oss:GetBucketWebsite",
+        "oss:PutBucketWebsite",
+        "oss:PutBucketAcl"
+      ],
+      "Resource": [
+        "acs:oss:*:*:xp-contacts-app",
+        "acs:oss:*:*:xp-contacts-app/*"
+      ]
+    }
+  ]
+}
