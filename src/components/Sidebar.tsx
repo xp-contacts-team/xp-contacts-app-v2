@@ -114,9 +114,9 @@ export function Sidebar({
       <div className="sidebar-foot">
         <span className="local-note">
           <ShieldCheck size={14} />
-          数据仅保存在本机浏览器
+          数据同步到云端 SQLite
         </span>
-        <span className="version">v1.0.0</span>
+        <span className="version">v1.0.1</span>
       </div>
     </aside>
   )

@@ -452,7 +452,7 @@ export default function App() {
 
           <footer className="list-footer">
             <span className="list-footer-dot" />
-            {stats.withPhone} 位联系人留有电话 · 数据保存在本机
+            {stats.withPhone} 位联系人留有电话 · 变更会同步到云端 SQLite
           </footer>
         </section>
 

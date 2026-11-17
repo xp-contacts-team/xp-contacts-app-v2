@@ -135,7 +135,7 @@ export function ContactForm({ open, mode, contact, onClose, onSubmit }: ContactF
       description={
         mode === 'create'
           ? '一个联系人可以保存多条电话、邮箱、社交账号与地址。'
-          : '修改后的信息会立即保存在本机浏览器中。'
+          : '修改后的信息会立即保存，并同步到云端 SQLite。'
       }
       onClose={onClose}
       size="lg"
